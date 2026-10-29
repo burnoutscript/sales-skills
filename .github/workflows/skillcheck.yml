@@ -1,0 +1,17 @@
+name: skillcheck
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: burnoutscript/skillcheck@v0
+        with:
+          path: skills
+          min-score: 100
+          strict: true

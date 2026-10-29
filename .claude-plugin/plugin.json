@@ -1,0 +1,10 @@
+{
+  "name": "sales-skills",
+  "description": "16 B2B sales skills for AI agents: prospecting, cold email, discovery, demos, objections, proposals, negotiation and deal reviews.",
+  "version": "0.1.0",
+  "author": { "name": "Victor Candido" },
+  "homepage": "https://github.com/burnoutscript/sales-skills",
+  "repository": "https://github.com/burnoutscript/sales-skills",
+  "license": "MIT",
+  "keywords": ["sales", "b2b", "outbound", "cold-email", "discovery", "meddpicc", "skills"]
+}

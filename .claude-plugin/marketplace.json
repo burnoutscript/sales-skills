@@ -1,0 +1,12 @@
+{
+  "name": "sales-skills",
+  "owner": { "name": "Victor Candido" },
+  "plugins": [
+    {
+      "name": "sales-skills",
+      "source": "./",
+      "description": "16 B2B sales skills for AI agents: prospecting, cold email, discovery, demos, objections, proposals, negotiation and deal reviews.",
+      "version": "0.1.0"
+    }
+  ]
+}
